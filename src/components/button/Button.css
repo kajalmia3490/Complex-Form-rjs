@@ -1,0 +1,16 @@
+.btn {
+    font-size: medium;
+    padding: 0.5rem;
+    border: 2px solid red;
+    color: red;
+    border-radius: 3px;
+}
+
+.btn2 {
+    font-size: medium;
+    padding: 0.5rem;
+    border: 1px solid gainsboro;
+    color: white;
+    background-color: black;
+    border-radius: 3px;
+}
